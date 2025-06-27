@@ -1,0 +1,13 @@
+{
+  "preload": "preload/services.js",
+  "logo": "icon.png",
+  "features": [
+    {
+      "code": "cursor",
+      "explain": "这是插件应用的第一个功能",
+      "cmds": [
+        "cursor"
+      ]
+    }
+  ]
+}
